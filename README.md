@@ -14,7 +14,7 @@
 </div>
 
 <h3>
-  A self-taught programmer, developer and computer science undergrad.
+  A Programmer, developer and computer science undergrad.
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 </h3> 
 
