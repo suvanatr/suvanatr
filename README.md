@@ -22,10 +22,10 @@
 
 <img align="right" alt="Coding" width="400"  src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-- 🔭 I’m currently working on a new 2D Game.
-- 🌱 I’m currently learning NLP & Java
+- 🔭 I’m currently working as an intern at Honeywell.
+- 🌱 I’m currently learning Azure and Druid.
 - 🤔 I’m looking to collaborate on open source Machine Learning and AI projects.
-- 💬 Ask me about Blender | C++ | Firebase
+- 💬 Ask me about Blender | Python | NOSql
 - 😄 Pronouns:  He/him
 - :man_technologist: You can also check out my portfolio at: https://suvanatr.netlify.app/
 
